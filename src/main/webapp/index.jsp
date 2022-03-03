@@ -9,6 +9,6 @@
 <body>
 <h2>Spring REST Demo</h2>
 <br>
-Welcome & What Not || <a href="test/hello">REST Endpoint Here</a>
+Welcome and What Not || <a href="test/hello">REST Endpoint Here</a>
 </body>
 </html>
